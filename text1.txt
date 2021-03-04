@@ -1,0 +1,10 @@
+ Volume in drive D is Trainings
+ Volume Serial Number is A4A1-01F1
+
+ Directory of D:\corejava
+
+04-03-2021  15:06    <DIR>          .
+04-03-2021  15:06    <DIR>          ..
+04-03-2021  15:06                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  150,966,149,120 bytes free
